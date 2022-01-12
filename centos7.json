@@ -2,7 +2,8 @@
   "variables": {
       "boot_wait": "5s",
       "disk_size": "40960",
-      "iso_url": "CentOS-7-x86_64-Everything-2009.iso",
+      "iso_checksum": "b79079ad71cc3c5ceb3561fff348a1b67ee37f71f4cddfec09480d4589c191d6",
+      "iso_url": "http://mirror.aarnet.edu.au/pub/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Everything-2009.iso",
       "memsize": "2048",
       "numvcpus": "1",
       "ssh_password" : "packer",
