@@ -2,13 +2,13 @@
   "variables": {
       "boot_wait": "5s",
       "disk_size": "40960",
-      "iso_checksum": "e33d7b1ea7a9e2f38c8f693215dd85254c3a4fe446f93f563279715b68d07987",
-      "iso_url": "http://localhost/iso/CentOS-7-x86_64-DVD-2009.iso",
+      "iso_checksum": "19d653ce2f04f202e79773a0cbeda82070e7527557e814ebbce658773fbe8191",
+      "iso_url": "http://localhost/iso/rhel-server-7.9-x86_64-dvd.iso",
       "memsize": "2048",
       "numvcpus": "1",
       "ssh_password" : "packer",
       "ssh_username" : "packer",
-      "vm_name": "CentOS-7-x86_64-2009"
+      "vm_name": "Redhat7-x86_64-2009"
     },
     "builders": [
       {
